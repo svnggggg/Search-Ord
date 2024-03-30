@@ -23,8 +23,8 @@ def particion(lista):
 
 def quicksort(lista):
     '''
-    esta funcion retorna una lista, en la cual, la funcion 'quicksort'
-    fue aplicada en la lista menor[] y mayor[]
+        > Funcion para retornar una lista, en la cual, la funcion 'quicksort'
+        fue aplicada en la lista menor[] y mayor[]
     '''
 
     if len(lista) < 2: # Caso base, si la lista tiene 2 elementos 
